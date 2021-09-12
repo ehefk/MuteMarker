@@ -8,7 +8,7 @@ Hopefully this helps some people out!
 This was my first Unity editor extension.  If there are any problems, feature requests, etc -- please let me know.  Thanks!
 
 ## Now with 1-click installer script:
-
+[Click here the the the latest download link](https://github.com/ehefk/MuteMarker/releases/tag/v1.0.0)
 - Places the markers on the tip of your index finger
 - Uses minimal parameters (9 or 10, depending if you want the ambidextrous option)
 - You can set color, emission, size and ink lifetime
@@ -16,6 +16,7 @@ This was my first Unity editor extension.  If there are any problems, feature re
 
 
 ### Install instructions
+Click Here to Download the UnityPackage
 - Drag the MuteMarker prefab into your scene
 - Drag your Avatar into the Avatar slot
 - Change the defaults if you wish
