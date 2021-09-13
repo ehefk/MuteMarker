@@ -32,8 +32,8 @@ This was my first Unity editor extension.  If there are any problems, feature re
 - Use the 'point' gesture on the opposite hand of your marker to pick up and move the canvas
 
 ### Important Notes: 
-**The canvas pickup isn't perfect, but it does work after you repeat the finger-point gesture to reset the space orientation**
-**If you have more than 1 scene with the same exact avatar name, you'll have to use "in-place" mode until the next u/pdate**
+- **The canvas pickup isn't perfect, but it does work after you repeat the finger-point gesture to reset the space orientation**
+- **If you have more than 1 scene with the same exact avatar name, you'll have to use "in-place" mode until the next u/pdate**
 
 
 **Install Notes:**
