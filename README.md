@@ -33,7 +33,7 @@ This was my first Unity editor extension.  If there are any problems, feature re
 
 ### Important Notes: 
 - **The canvas pickup isn't perfect, but it does work after you repeat the finger-point gesture to reset the space orientation**
-- **If you have more than 1 scene with the same exact avatar name, you'll have to use "in-place" mode until the next u/pdate**
+- **If you have more than 1 scene with the same exact avatar name, you'll have to use "in-place" mode until the next update**
 
 
 **Install Notes:**
