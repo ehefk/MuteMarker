@@ -39,7 +39,7 @@ This was my first Unity editor extension.  If there are any problems, feature re
 
 **Install Notes:**
 - After hitting apply, the marker objects will be placed near the tip of your index finger -- if you want it to be all the way on the tip, just grab the X handle and drag it an inch or two.
-- I plan at least one update (before vrchat updates force one) to add the ability to disable the canvas pick-up
+- I plan at least one update (before vrchat updates force one) to add the ability to disable the canvas pick-up as well as enable a canvas-rotate gesture. (will likely be the victory gesture on the same hand as canvsa pick-up)
 
 
 ## Credits:
