@@ -33,6 +33,7 @@ This was my first Unity editor extension.  If there are any problems, feature re
 
 ### Important Notes: 
 - **The canvas pickup isn't perfect, but it does work after you repeat the finger-point gesture to reset the space orientation**
+  - The mechanism for this is a nested world-canvas.  In the next update I want to add a second nested canvas so that you can flip your writing 180 degrees.  This should let you write normally, then turn it around for the camera or people in front of you to easily read.
 - **If you have more than 1 scene with the same exact avatar name, you'll have to use "in-place" mode until the next update**
 
 
