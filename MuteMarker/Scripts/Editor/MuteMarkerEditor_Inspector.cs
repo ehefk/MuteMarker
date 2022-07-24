@@ -76,7 +76,7 @@ namespace MuteMarker.Scripts.Editor
                 overloadedParams = false;
                 
                 int usedParams = script.avatar.expressionParameters.CalcTotalCost();
-                int remainingParams = 128 - usedParams;
+                int remainingParams = 256 - usedParams;
                 int requiredParams = ambidextrous ? 10 : 9;
                 int emptyParams = MuteMarkerMenuTool.EmptyParamCount(script.avatar.expressionParameters);
                 int markerParamCount = MuteMarkerMenuTool.MarkerParamCount(script.avatar.expressionParameters);
