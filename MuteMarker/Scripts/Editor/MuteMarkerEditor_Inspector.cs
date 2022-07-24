@@ -95,7 +95,7 @@ namespace MuteMarker.Scripts.Editor
                     }
                 }
 
-                GUILayout.Label("Used Parameters: " + usedParams + " / 128", style);
+                GUILayout.Label("Used Parameters: " + usedParams + " / 256", style);
                 GUILayout.Label("Parameters Required: " + requiredParams, style);
                 GUILayout.Label("Empty Parameters: " + emptyParams, style);
 
