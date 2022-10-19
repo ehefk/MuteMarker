@@ -1,3 +1,10 @@
+# Update Note:
+
+This project uses WD-on currently.  When I created this I didn't know much about what that meant, it just worked.
+
+And updated version is forthcoming that will have a toggle in the installer.  That's all!  
+
+
 # Mute Marker for VRChat
 Inspired by what I consider major missing features of currently existing AV3 markers, I created my own version, designed to make communicating as a mute in VRChat a little easier.
 
