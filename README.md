@@ -2,7 +2,7 @@
 
 This project uses WD-on currently.  When I created this I didn't know much about what that meant, it just worked.
 
-And updated version is forthcoming that will have a toggle in the installer.  That's all!  
+An updated version is forthcoming that will have a toggle in the installer.  That's all!  
 
 
 # Mute Marker for VRChat
